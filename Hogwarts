@@ -1,0 +1,6 @@
+name=input("What is your name?")
+import random
+hogwarts=["Griffindor","Slitherin","Ravenclaw","Hufflepuf"]
+house=random.choice(hogwarts)
+print("welcome to hogwarts",name)
+print("You are in",house)
