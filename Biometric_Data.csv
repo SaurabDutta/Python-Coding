@@ -1,0 +1,31 @@
+Date, Employee Code ,Employee Name,Company ,Department,Category ,Degination,Grade,Shift, In Time ,Out Time , Duration 
+9/20/2021,1,John,ABC Incorporation,Admin,Default,Senior Business Manager,,GS,,,0:00
+9/21/2021,1,John,ABC Incorporation,Admin,Default,Senior Business Manager,,GS,,,0:00
+9/22/2021,1,John,ABC Incorporation,Admin,Default,Senior Business Manager,,GS,,,0:00
+9/23/2021,1,John,ABC Incorporation,Admin,Default,Senior Business Manager,,GS,13:09,19:07,5:58
+9/24/2021,1,John,ABC Incorporation,Admin,Default,Senior Business Manager,,GS,12:41,17:32,4:50
+9/20/2021,2,Merry Math,ABC Incorporation,Contract,Default,Manager,,GS,,,0:00
+9/21/2021,2,Merry Math,ABC Incorporation,Contract,Default,Manager,,GS,,,0:00
+9/22/2021,2,Merry Math,ABC Incorporation,Contract,Default,Manager,,GS,8:53,19:25,10:22
+9/23/2021,2,Merry Math,ABC Incorporation,Contract,Default,Manager,,GS,10:04,19:14,9:10
+9/24/2021,2,Merry Math,ABC Incorporation,Contract,Default,Manager,,GS,9:50,19:15,9:20
+9/20/2021,3,Stela Kevin,ABC Incorporation,Contract,Default,Senior Associate,,GS,,,0:00
+9/21/2021,3,Stela Kevin,ABC Incorporation,Contract,Default,Senior Associate,,GS,,,0:00
+9/22/2021,3,Stela Kevin,ABC Incorporation,Contract,Default,Senior Associate,,GS,,,0:00
+9/23/2021,3,Stela Kevin,ABC Incorporation,Contract,Default,Senior Associate,,GS,,,0:00
+9/24/2021,3,Stela Kevin,ABC Incorporation,Contract,Default,Senior Associate,,GS,,,0:00
+9/20/2021,4,Peter Molsberg,ABC Incorporation,DR,Default,Senior Associate,,GS,,,0:00
+9/21/2021,4,Peter Molsberg,ABC Incorporation,DR,Default,Senior Associate,,GS,,,0:00
+9/22/2021,4,Peter Molsberg,ABC Incorporation,DR,Default,Senior Associate,,GS,,,0:00
+9/23/2021,4,Peter Molsberg,ABC Incorporation,DR,Default,Senior Associate,,GS,,,0:00
+9/24/2021,4,Peter Molsberg,ABC Incorporation,DR,Default,Senior Associate,,GS,,,0:00
+9/20/2021,5,Merry Charlton,ABC Incorporation,DBDR,Default,Manager,,GS,,,0:00
+9/21/2021,5,Merry Charlton,ABC Incorporation,DBDR,Default,Manager,,GS,,,0:00
+9/22/2021,5,Merry Charlton,ABC Incorporation,DBDR,Default,Manager,,GS,,,0:00
+9/23/2021,5,Merry Charlton,ABC Incorporation,DBDR,Default,Manager,,GS,,,0:00
+9/24/2021,5,Merry Charlton,ABC Incorporation,DBDR,Default,Manager,,GS,8:18,18:26,9:27
+9/20/2021,6,Kemlin Green,ABC Incorporation,HR,Default,HR & Admin,,GS,,,0:00
+9/21/2021,6,Kemlin Green,ABC Incorporation,HR,Default,HR & Admin,,GS,,,0:00
+9/22/2021,6,Kemlin Green,ABC Incorporation,HR,Default,HR & Admin,,GS,9:27,19:26,9:59
+9/23/2021,6,Kemlin Green,ABC Incorporation,HR,Default,HR & Admin,,GS,9:31,19:09,9:38
+9/24/2021,6,Kemlin Green,ABC Incorporation,HR,Default,HR & Admin,,GS,9:03,19:04,10:01
